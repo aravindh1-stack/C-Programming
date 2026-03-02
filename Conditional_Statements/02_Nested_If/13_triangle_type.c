@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to classify a triangle as equilateral, isosceles, or scalene. */
-/* Explanation: Uses nested if after validating side positivity and triangle inequality. */
-
 #include <stdio.h>
 
 int main(void) {

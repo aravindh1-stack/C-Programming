@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to find the absolute value of an integer using ternary operator. */
-/* Explanation: Uses ternary to keep n if non-negative, otherwise convert to -n. */
-
 #include <stdio.h>
 
 int main(void) {

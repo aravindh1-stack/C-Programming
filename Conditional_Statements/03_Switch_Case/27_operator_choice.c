@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to perform an operation on two numbers based on an operator character using switch-case. */
-/* Explanation: Uses switch on '+', '-', '*', '/', and '%' to execute operator-specific logic. */
-
 #include <stdio.h>
 
 int main(void) {

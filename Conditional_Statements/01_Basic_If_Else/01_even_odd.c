@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a given integer is even or odd. */
-/* Explanation: Uses if-else with n % 2 == 0 to identify even numbers. */
-
 #include <stdio.h>
 
 int main(void) {

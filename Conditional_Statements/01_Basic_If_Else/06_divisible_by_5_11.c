@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a number is divisible by both 5 and 11. */
-/* Explanation: Uses if with combined modulus conditions using logical AND. */
-
 #include <stdio.h>
 
 int main(void) {

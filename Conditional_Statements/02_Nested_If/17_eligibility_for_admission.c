@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check college admission eligibility based on marks in Math, Physics, and Chemistry. */
-/* Explanation: Uses nested if to apply minimum subject marks and total cutoff conditions. */
-
 #include <stdio.h>
 
 int main(void) {

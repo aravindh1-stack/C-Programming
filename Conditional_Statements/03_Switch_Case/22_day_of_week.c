@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print day name for numbers 1 to 7 using switch-case. */
-/* Explanation: Uses switch to map integer day numbers to weekday names. */
-
 #include <stdio.h>
 
 int main(void) {

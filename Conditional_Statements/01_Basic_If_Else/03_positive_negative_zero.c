@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a number is positive, negative, or zero. */
-/* Explanation: Uses if-else-if to test n > 0, n < 0, and the remaining zero case. */
-
 #include <stdio.h>
 
 int main(void) {

@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to find the greatest among three numbers using nested ternary operators. */
-/* Explanation: Uses nested ternary comparisons to choose the largest value. */
-
 #include <stdio.h>
 
 int main(void) {

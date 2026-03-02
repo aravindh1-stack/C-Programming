@@ -1,6 +1,3 @@
-/* Problem Statement: Write a switch-case program to convert kilometers to meters or centimeters based on user choice. */
-/* Explanation: Uses switch to pick conversion factor according to selected unit output. */
-
 #include <stdio.h>
 
 int main(void) {

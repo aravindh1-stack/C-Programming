@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print the number of days in a month using switch-case. */
-/* Explanation: Uses grouped switch cases for months with 31, 30, and February days. */
-
 #include <stdio.h>
 
 int main(void) {

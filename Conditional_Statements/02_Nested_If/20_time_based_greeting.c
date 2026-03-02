@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print greeting based on hour and whether it is weekend. */
-/* Explanation: Uses nested if to split weekday/weekend and then hour ranges. */
-
 #include <stdio.h>
 
 int main(void) {

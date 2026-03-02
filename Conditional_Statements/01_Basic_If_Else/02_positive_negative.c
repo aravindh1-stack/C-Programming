@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a number is positive or negative. */
-/* Explanation: Uses if-else with n >= 0 as positive and otherwise negative. */
-
 #include <stdio.h>
 
 int main(void) {

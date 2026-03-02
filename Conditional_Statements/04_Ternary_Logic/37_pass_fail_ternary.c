@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print pass or fail status with pass marks 40 using ternary operator. */
-/* Explanation: Uses ternary expression to compare marks against pass cutoff. */
-
 #include <stdio.h>
 
 int main(void) {

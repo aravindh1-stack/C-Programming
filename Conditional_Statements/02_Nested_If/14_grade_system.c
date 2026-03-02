@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to assign grades A, B, C, D, or F based on marks. */
-/* Explanation: Uses nested if to first validate range, then apply grade slabs. */
-
 #include <stdio.h>
 
 int main(void) {

@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to apply 10% discount if bill amount is at least 1000 and customer is a member. */
-/* Explanation: Uses nested if to check amount threshold first, then membership condition. */
-
 #include <stdio.h>
 
 int main(void) {

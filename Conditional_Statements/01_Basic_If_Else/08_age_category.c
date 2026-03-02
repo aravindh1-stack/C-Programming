@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to classify age as child, teenager, adult, or senior citizen. */
-/* Explanation: Uses else-if ladder to map age ranges to categories. */
-
 #include <stdio.h>
 
 int main(void) {

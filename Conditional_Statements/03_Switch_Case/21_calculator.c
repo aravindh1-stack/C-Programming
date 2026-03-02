@@ -1,6 +1,3 @@
-/* Problem Statement: Write a menu-driven calculator to perform addition, subtraction, multiplication, or division using switch-case. */
-/* Explanation: Uses switch on user choice to execute one arithmetic operation. */
-
 #include <stdio.h>
 
 int main(void) {

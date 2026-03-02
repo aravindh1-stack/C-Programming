@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check leap year using ternary operator logic. */
-/* Explanation: Uses ternary with combined divisibility checks for leap-year condition. */
-
 #include <stdio.h>
 
 int main(void) {

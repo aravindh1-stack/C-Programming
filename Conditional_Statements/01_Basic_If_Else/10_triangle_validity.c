@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether three angles can form a valid triangle. */
-/* Explanation: Uses if-else to verify positive angles and total sum equals 180. */
-
 #include <stdio.h>
 
 int main(void) {

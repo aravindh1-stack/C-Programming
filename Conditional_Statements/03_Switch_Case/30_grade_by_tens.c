@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print grade using switch-case by converting marks into tens place. */
-/* Explanation: Uses switch on marks/10 to assign grade groups efficiently. */
-
 #include <stdio.h>
 
 int main(void) {

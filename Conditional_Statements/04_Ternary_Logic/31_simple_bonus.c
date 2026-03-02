@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to give a bonus of 1000 if salary is at least 30000, otherwise 500. */
-/* Explanation: Uses ternary operator to choose bonus amount from a salary condition. */
-
 #include <stdio.h>
 
 int main(void) {

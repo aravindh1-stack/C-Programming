@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to find the greatest among three integers using nested if. */
-/* Explanation: Uses nested if blocks to compare values step by step. */
-
 #include <stdio.h>
 
 int main(void) {

@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to calculate whether a transaction results in profit, loss, or no gain-no loss. */
-/* Explanation: Uses nested if after validating non-negative cost and selling prices. */
-
 #include <stdio.h>
 
 int main(void) {

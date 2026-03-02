@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a year is a leap year using nested if. */
-/* Explanation: Uses nested if for 400, 100, and 4 divisibility leap-year rules. */
-
 #include <stdio.h>
 
 int main(void) {

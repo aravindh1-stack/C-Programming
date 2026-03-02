@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a character is uppercase or lowercase. */
-/* Explanation: Uses ASCII range checks with if-else-if for uppercase and lowercase letters. */
-
 #include <stdio.h>
 
 int main(void) {

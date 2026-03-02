@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print the season name based on month number using switch-case. */
-/* Explanation: Uses grouped switch cases to map months into four seasons. */
-
 #include <stdio.h>
 
 int main(void) {

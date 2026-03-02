@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print three numbers in ascending order using nested if. */
-/* Explanation: Uses nested if branches to decide the exact ordering of a, b, and c. */
-
 #include <stdio.h>
 
 int main(void) {

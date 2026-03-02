@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to print whether a number is positive, negative, or zero using nested ternary operator. */
-/* Explanation: Uses nested ternary to evaluate three possible sign outcomes. */
-
 #include <stdio.h>
 
 int main(void) {

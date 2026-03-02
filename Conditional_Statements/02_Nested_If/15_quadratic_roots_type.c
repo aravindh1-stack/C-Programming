@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to determine if quadratic roots are real-equal, real-distinct, or imaginary. */
-/* Explanation: Uses nested if on discriminant value d = b*b - 4ac. */
-
 #include <stdio.h>
 
 int main(void) {

@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to find the larger number between two integers. */
-/* Explanation: Uses if-else to compare two numbers directly. */
-
 #include <stdio.h>
 
 int main(void) {

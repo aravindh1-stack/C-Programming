@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to find minimum and maximum between two numbers using ternary operators. */
-/* Explanation: Uses ternary expressions to assign min and max based on comparison. */
-
 #include <stdio.h>
 
 int main(void) {

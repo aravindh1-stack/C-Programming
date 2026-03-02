@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to display action based on traffic light color choice using switch-case. */
-/* Explanation: Uses switch to map 'R', 'Y', and 'G' inputs to traffic instructions. */
-
 #include <stdio.h>
 
 int main(void) {

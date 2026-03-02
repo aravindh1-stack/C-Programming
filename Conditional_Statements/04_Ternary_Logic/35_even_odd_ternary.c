@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check even or odd using ternary operator. */
-/* Explanation: Uses n % 2 condition inside ternary to print Even or Odd. */
-
 #include <stdio.h>
 
 int main(void) {

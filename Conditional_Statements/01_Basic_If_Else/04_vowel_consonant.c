@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether an alphabet character is a vowel or consonant. */
-/* Explanation: Uses if-else to compare the character against vowel letters. */
-
 #include <stdio.h>
 
 int main(void) {

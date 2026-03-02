@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to apply 5% discount if purchase amount is at least 2000 using ternary operator. */
-/* Explanation: Uses ternary to compute final amount either with discount or without discount. */
-
 #include <stdio.h>
 
 int main(void) {

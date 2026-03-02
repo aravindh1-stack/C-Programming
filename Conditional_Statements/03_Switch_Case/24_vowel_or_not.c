@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check whether a character is a vowel using switch-case. */
-/* Explanation: Uses switch cases for all vowel letters in both lowercase and uppercase. */
-
 #include <stdio.h>
 
 int main(void) {

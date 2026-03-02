@@ -1,6 +1,3 @@
-/* Problem Statement: Write a menu-driven program to calculate area of circle, rectangle, or triangle using switch-case. */
-/* Explanation: Uses switch on shape choice and applies the corresponding area formula. */
-
 #include <stdio.h>
 
 int main(void) {

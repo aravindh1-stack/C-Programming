@@ -1,6 +1,3 @@
-/* Problem Statement: Write a program to check voting eligibility (18+) using ternary operator. */
-/* Explanation: Uses ternary to choose eligible or not eligible message by age threshold. */
-
 #include <stdio.h>
 
 int main(void) {
